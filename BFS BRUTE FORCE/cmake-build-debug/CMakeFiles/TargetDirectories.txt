@@ -1,0 +1,3 @@
+C:/Users/gtx/CLionProjects/BFS BRUTE FORCE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gtx/CLionProjects/BFS BRUTE FORCE/cmake-build-debug/CMakeFiles/BFS_BRUTE_FORCE.dir
+C:/Users/gtx/CLionProjects/BFS BRUTE FORCE/cmake-build-debug/CMakeFiles/edit_cache.dir
